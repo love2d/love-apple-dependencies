@@ -1,0 +1,6 @@
+framework module mpg123 {
+  umbrella header "mpg123.h"
+
+  export *
+  module * { export * }
+}
