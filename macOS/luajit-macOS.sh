@@ -1,4 +1,4 @@
-mkdir -p Sources/luajit
+mkdir -p Sources/LuaJIT
 
 git clone https://github.com/LuaJIT/LuaJIT.git Sources/LuaJIT
 cd Sources/LuaJIT
@@ -6,7 +6,8 @@ git pull
 git checkout v2.1
 
 INSTALL_NAME="@rpath/Lua.framework/Versions/A/Lua"
-MACOSX_DEPLOYMENT_TARGET=10.7
+
+export MACOSX_DEPLOYMENT_TARGET=10.7
 
 # build x64
 make clean
