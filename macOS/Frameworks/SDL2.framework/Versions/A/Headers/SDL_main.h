@@ -1,6 +1,6 @@
 /*
   Simple DirectMedia Layer
-  Copyright (C) 1997-2021 Sam Lantinga <slouken@libsdl.org>
+  Copyright (C) 1997-2023 Sam Lantinga <slouken@libsdl.org>
 
   This software is provided 'as-is', without any express or implied
   warranty.  In no event will the authors be held liable for any damages
@@ -22,7 +22,7 @@
 #ifndef SDL_main_h_
 #define SDL_main_h_
 
-#include "SDL_stdinc.h"
+#include <SDL2/SDL_stdinc.h>
 
 /**
  *  \file SDL_main.h
@@ -48,6 +48,15 @@
    src/main/winrt/SDL_WinRT_main_NonXAML.cpp, or a copy of it, must be compiled
    into the app itself.  In XAML apps, the function, SDL_WinRTRunApp must be
    called, with a pointer to the Direct3D-hosted XAML control passed in.
+*/
+#define SDL_MAIN_NEEDED
+
+#elif defined(__GDK__)
+/* On GDK, SDL provides a main function that initializes the game runtime.
+
+   Please note that #include'ing SDL_main.h is not enough to get a main()
+   function working. You must either link against SDL2main or, if not possible,
+   call the SDL_GDKRunApp function from your entry point.
 */
 #define SDL_MAIN_NEEDED
 
@@ -92,6 +101,22 @@
  */
 #define SDL_MAIN_AVAILABLE
 
+#elif defined(__PS2__)
+#define SDL_MAIN_AVAILABLE
+
+#define SDL_PS2_SKIP_IOP_RESET() \
+   void reset_IOP(); \
+   void reset_IOP() {}
+
+#elif defined(__3DS__)
+/*
+  On N3DS, SDL provides a main function that sets up the screens
+  and storage.
+
+  If you provide this yourself, you may define SDL_MAIN_HANDLED
+*/
+#define SDL_MAIN_AVAILABLE
+
 #endif
 #endif /* SDL_MAIN_HANDLED */
 
@@ -118,7 +143,7 @@
 #define main    SDL_main
 #endif
 
-#include "begin_code.h"
+#include <SDL2/begin_code.h>
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -145,7 +170,7 @@ extern SDLMAIN_DECLSPEC int SDL_main(int argc, char *argv[]);
  */
 extern DECLSPEC void SDLCALL SDL_SetMainReady(void);
 
-#ifdef __WIN32__
+#if defined(__WIN32__) || defined(__GDK__)
 
 /**
  * Register a win32 window class for SDL's use.
@@ -189,7 +214,7 @@ extern DECLSPEC int SDLCALL SDL_RegisterApp(const char *name, Uint32 style, void
  */
 extern DECLSPEC void SDLCALL SDL_UnregisterApp(void);
 
-#endif /* __WIN32__ */
+#endif /* defined(__WIN32__) || defined(__GDK__) */
 
 
 #ifdef __WINRT__
@@ -224,11 +249,33 @@ extern DECLSPEC int SDLCALL SDL_UIKitRunApp(int argc, char *argv[], SDL_main_fun
 
 #endif /* __IPHONEOS__ */
 
+#ifdef __GDK__
+
+/**
+ * Initialize and launch an SDL GDK application.
+ *
+ * \param mainFunction the SDL app's C-style main(), an SDL_main_func
+ * \param reserved reserved for future use; should be NULL
+ * \returns 0 on success or -1 on failure; call SDL_GetError() to retrieve
+ *          more information on the failure.
+ *
+ * \since This function is available since SDL 2.24.0.
+ */
+extern DECLSPEC int SDLCALL SDL_GDKRunApp(SDL_main_func mainFunction, void *reserved);
+
+/**
+ * Callback from the application to let the suspend continue.
+ *
+ * \since This function is available since SDL 2.28.0.
+ */
+extern DECLSPEC void SDLCALL SDL_GDKSuspendComplete(void);
+
+#endif /* __GDK__ */
 
 #ifdef __cplusplus
 }
 #endif
-#include "close_code.h"
+#include <SDL2/close_code.h>
 
 #endif /* SDL_main_h_ */
 
