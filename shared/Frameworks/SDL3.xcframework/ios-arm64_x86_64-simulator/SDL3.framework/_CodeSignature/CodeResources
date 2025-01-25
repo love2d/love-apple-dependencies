@@ -6,7 +6,7 @@
 	<dict>
 		<key>CMake/SDL3Config.cmake</key>
 		<data>
-		E+bsKFeYRozn4nSWM4OxBPxu3Wo=
+		wVPzCDAGpS2036XQsVLmiAOr8Bc=
 		</data>
 		<key>CMake/SDL3ConfigVersion.cmake</key>
 		<data>
@@ -14,175 +14,175 @@
 		</data>
 		<key>Headers/SDL.h</key>
 		<data>
-		HMPyGN41V4goPYYxTxzSbQbrdhw=
+		lZ3h7l/TqUrTiXHgV15X4SmQdlg=
 		</data>
 		<key>Headers/SDL_assert.h</key>
 		<data>
-		iZTfaUArpbcC/dsS+RpujtQB/YY=
+		FCAIhbQEN4FmvTlBQOOPjycjnzo=
 		</data>
 		<key>Headers/SDL_asyncio.h</key>
 		<data>
-		vDwO8HUutOrm5vWzIO+JuYIvp80=
+		fGXNFcOElD6IRbX9GcJubLmoorU=
 		</data>
 		<key>Headers/SDL_atomic.h</key>
 		<data>
-		0P+tYv8TND39pV3VUbKe8pIakNo=
+		ZSetO9pGvnFdg6kNoQWBa42rYug=
 		</data>
 		<key>Headers/SDL_audio.h</key>
 		<data>
-		BJyuhZ9xipQ4KOxvS1BumgaEjAw=
+		4mdiUNQEXHRPqAT1Tyq7aFbrCz4=
 		</data>
 		<key>Headers/SDL_begin_code.h</key>
 		<data>
-		GlWx+D9Hs04Iw4kz/9k1lIQBVaA=
+		wsAzfk5ARMtwSG4xPvzg5m3Jz8U=
 		</data>
 		<key>Headers/SDL_bits.h</key>
 		<data>
-		g4UwvZm7KGzzMbhoi4K9Xo2KjAA=
+		9cqOFvZxXmGK7a5xO8Lz50q6zok=
 		</data>
 		<key>Headers/SDL_blendmode.h</key>
 		<data>
-		N76RDsvZYsOeYw3wyAM3Ae24dTU=
+		usmRnfDgT4dxC8NUBkBLHOFce94=
 		</data>
 		<key>Headers/SDL_camera.h</key>
 		<data>
-		TBHnnS4XbI7+To7pnqG+aFXnrUA=
+		zHEfe8mk7gUo10V9SZo8ehQDUlY=
 		</data>
 		<key>Headers/SDL_clipboard.h</key>
 		<data>
-		pk0UmFCsIprSdqu0wjOfJX1J95Y=
+		UREK6p3Z6taOQm4qRmug/UrLLX8=
 		</data>
 		<key>Headers/SDL_close_code.h</key>
 		<data>
-		+5e0RYkSMDWs+B5irBHuav7EGM8=
+		1vBg1G1kDxz48iNCRQzRs4JdJXo=
 		</data>
 		<key>Headers/SDL_copying.h</key>
 		<data>
-		gJU9ZWFTfu1EWAYO8Eou18UaQzU=
+		qgiizcHDSADGW6sbUWVXBnHDWIM=
 		</data>
 		<key>Headers/SDL_cpuinfo.h</key>
 		<data>
-		0hG99dBQ0QrIeFpGoxpXc2V4HSg=
+		rjGkZeoG408swy+z8MRwRTXE4/A=
 		</data>
 		<key>Headers/SDL_dialog.h</key>
 		<data>
-		JNb/9FfibjRTWjz9gMmbyBxDobE=
+		wRwxojHRWHS7ZY+00Ugcp+ulhVc=
 		</data>
 		<key>Headers/SDL_egl.h</key>
 		<data>
-		DFPtq0RjCP4+3UsNLTKNq6adAfI=
+		2TRm4qSC+lwUqk357LIp+9RA5D0=
 		</data>
 		<key>Headers/SDL_endian.h</key>
 		<data>
-		wBKjeNjU99yObcHh3yFFlZUbXzA=
+		zuQm4k5QRLG+8gYrpjTaHyKdwJo=
 		</data>
 		<key>Headers/SDL_error.h</key>
 		<data>
-		coQgqbJrF9nkwT9LEeudbpVderE=
+		2qWxaJQ1wp4at9K8sk+FAfpf0ig=
 		</data>
 		<key>Headers/SDL_events.h</key>
 		<data>
-		ltR7vp0z2X2fs2FBD8z3McE+cWE=
+		srOwCYOhw2wJ3y4TDfHmDSyCFwA=
 		</data>
 		<key>Headers/SDL_filesystem.h</key>
 		<data>
-		lI/CLf41KuuQUIkr8Qf7/XtxG3U=
+		x2Bf0NH1HhevHFcwIIhsi1nsUlk=
 		</data>
 		<key>Headers/SDL_gamepad.h</key>
 		<data>
-		IAs4gv4ecTe4AFsLSxIh9hmUxmQ=
+		GD829JbTWBtzqqDEb8K+Kak1alU=
 		</data>
 		<key>Headers/SDL_gpu.h</key>
 		<data>
-		govhCpdy0R7i4tUcwOapd6FhegM=
+		VUeK6nT8fg94fv2ahh3v/H6bFv0=
 		</data>
 		<key>Headers/SDL_guid.h</key>
 		<data>
-		4C2G0+7O3QHAgBUX5nVrMc8ZhMA=
+		PbhQca/PTObFyBpF0YADyZ4UxgU=
 		</data>
 		<key>Headers/SDL_haptic.h</key>
 		<data>
-		5a1B+DmODJe5SGGuj/iBSzdiXEI=
+		cnzDmGxX9Q613k0BUk0+kxDB/mY=
 		</data>
 		<key>Headers/SDL_hidapi.h</key>
 		<data>
-		3HzAgB6kSBUsZlNgu6QTtcdT8ic=
+		s2YTW3pfACVyMAnkvHvbUGwbrAo=
 		</data>
 		<key>Headers/SDL_hints.h</key>
 		<data>
-		tDfSifYcUhI3ENJiuHN3serVDjs=
+		AEwxf+T99FHEv/c3SLJX3G9ZAkc=
 		</data>
 		<key>Headers/SDL_init.h</key>
 		<data>
-		Ybmyx+VHlrLkvy24J6aKsFYjaiA=
+		1cF9UGNdMfWCaGTFPnDilOcmbdY=
 		</data>
 		<key>Headers/SDL_intrin.h</key>
 		<data>
-		ISP2HtzJeKi/KpvP0n7bvY6CzT4=
+		j14ekg6zAs7gojHrq8YuNsg5ftU=
 		</data>
 		<key>Headers/SDL_iostream.h</key>
 		<data>
-		AWH+H0rJPOJpxUBJEmWeJFIL++A=
+		INQzKo+TXazvwu2uSIXTk74A4Ms=
 		</data>
 		<key>Headers/SDL_joystick.h</key>
 		<data>
-		KAvUgWY6F8zL8TxW0Z8vLUkvOTk=
+		Dj3PmhA77DmQhaaO7TtlFVfr8Fk=
 		</data>
 		<key>Headers/SDL_keyboard.h</key>
 		<data>
-		v/QDKYKY1bsyK1PYH0x4aytmSr0=
+		TA2CXW0WZtojbbbD8QO5YbCtYk0=
 		</data>
 		<key>Headers/SDL_keycode.h</key>
 		<data>
-		pfsVkdDuEXzsX4S4NCng/PMFXdI=
+		Vep2hlXhJj2m5WJUv3YSjgwZJig=
 		</data>
 		<key>Headers/SDL_loadso.h</key>
 		<data>
-		giyDNhDXnVmJY82ijdn1X3RM77s=
+		5kT/8rtuphyE7R7qRnWTSM3vZD8=
 		</data>
 		<key>Headers/SDL_locale.h</key>
 		<data>
-		RvbjfxCAnke6onTDwwPH4AuCozQ=
+		wdVGs4oraONMu+OI1Vq89eCwgRI=
 		</data>
 		<key>Headers/SDL_log.h</key>
 		<data>
-		yi0r0KuPz+Y3E40VmnOHggkGNI4=
+		fchtNGMinx43j8vDGByzEG8Ug5o=
 		</data>
 		<key>Headers/SDL_main.h</key>
 		<data>
-		TbV/KwYJdwvmmyXFmHIHkd9/x6o=
+		5RmWvYVo9aeKVojTkH6+BW51UFQ=
 		</data>
 		<key>Headers/SDL_main_impl.h</key>
 		<data>
-		E6I+OVhL/eM/b04avmDbrkYTuaA=
+		B5urjdx8niHPF6lzVXVl0e513EM=
 		</data>
 		<key>Headers/SDL_messagebox.h</key>
 		<data>
-		T3s4R8JHwzY5z5Whk2bMxrI0EKk=
+		eLiKcRb2KqDF+NiOCLTypsmVW9c=
 		</data>
 		<key>Headers/SDL_metal.h</key>
 		<data>
-		Jl7VPYJxV5C6PJajgF4y3aMZDCs=
+		JQbRAPxnIekwgyOzk9jNdyTrw5g=
 		</data>
 		<key>Headers/SDL_misc.h</key>
 		<data>
-		seB/1sHipR5/HdMrR/v5YkN+AEU=
+		o0Zdf1k3zVEwjCK20nnKd0mE3Tk=
 		</data>
 		<key>Headers/SDL_mouse.h</key>
 		<data>
-		/RyakMS0G7UqrZeBaUzeYoWHsqQ=
+		5LuKu9JO0epHU72XAQi6XzeITWw=
 		</data>
 		<key>Headers/SDL_mutex.h</key>
 		<data>
-		ooHDeicc1ZVN1OnJ8sNwyUZLgp8=
+		zC93pUcPmlFIS9L8r4ciCvJm0mk=
 		</data>
 		<key>Headers/SDL_oldnames.h</key>
 		<data>
-		tPVTZHyXTp55p7uYiBEhCM4sh0k=
+		LVEh0rWKvPoz0Olpe7Opq43B+/Q=
 		</data>
 		<key>Headers/SDL_opengl.h</key>
 		<data>
-		8jjbdjQBpwME3TwtsLb4R7jdJqE=
+		nBXVdw/GJ7GDEMLjNVChtFKnnhc=
 		</data>
 		<key>Headers/SDL_opengl_glext.h</key>
 		<data>
@@ -190,11 +190,11 @@
 		</data>
 		<key>Headers/SDL_opengles.h</key>
 		<data>
-		gG8fFwXRxWfFzL5XD2UffDRXZ3Q=
+		GVQefc+XmHojZPonePHo3DmwzMw=
 		</data>
 		<key>Headers/SDL_opengles2.h</key>
 		<data>
-		AxfYXQsD0wpyQFFalhC2+H+bbJw=
+		y2MDVf0VqmkxR9HtNdwVas9bsig=
 		</data>
 		<key>Headers/SDL_opengles2_gl2.h</key>
 		<data>
@@ -214,136 +214,132 @@
 		</data>
 		<key>Headers/SDL_pen.h</key>
 		<data>
-		P0vNyTzRerR/nJ1u5j1XCs48PcQ=
+		EXvVo7r3v4Js0CLNoAx2CfU2yFw=
 		</data>
 		<key>Headers/SDL_pixels.h</key>
 		<data>
-		6pIrZAZC7HusRvkkHkNpCjf0XO4=
+		sAQtWWQrbFCZTpncKsMKtnFHS1k=
 		</data>
 		<key>Headers/SDL_platform.h</key>
 		<data>
-		nu3QXt/fbiMtDpmbdk683Bi1yTM=
+		O0WfapqV4/M3w8tAMcj2VbsPg5M=
 		</data>
 		<key>Headers/SDL_platform_defines.h</key>
 		<data>
-		vhKMVf7mBVG/AqzlTG0zIk14Al4=
+		6daGsbgvToo48b6YvBOq9M9sc3c=
 		</data>
 		<key>Headers/SDL_power.h</key>
 		<data>
-		nXzpwyYa01d4qbzFwOlye3zg6Hc=
+		JjIeT6uo0ADVc48kia7YbS4w6/s=
 		</data>
 		<key>Headers/SDL_process.h</key>
 		<data>
-		y5JmSaP++vCtreTxTX0ymdDYqv0=
+		kekhaSL6DFc1U1O4u9PvL3gg4aw=
 		</data>
 		<key>Headers/SDL_properties.h</key>
 		<data>
-		RPqL9CeaXDeL/iRQMwGuDajHhk0=
+		gb6Lko32APlCWI0MC2wu4I/SQB4=
 		</data>
 		<key>Headers/SDL_rect.h</key>
 		<data>
-		b9/2IcyO0TfAChFaRUL4/bJXKeM=
+		y1wXNIYEgFi/LZPZLJi3Nh/6tso=
 		</data>
 		<key>Headers/SDL_render.h</key>
 		<data>
-		wtoM8UmcnR3TGIS3QNGakv1coQI=
+		QzDPmDedVEINEMr8F1kzJJI9jyA=
 		</data>
 		<key>Headers/SDL_revision.h</key>
 		<data>
-		nvUzgCJ/PMbkYrUJqMmDq9JNNxk=
+		7zyX8n0Ah/101vzYY2GtJxpzZmw=
 		</data>
 		<key>Headers/SDL_scancode.h</key>
 		<data>
-		Mpd8o1bktQb4E4fJ9uOmrT3IkSM=
+		NCaX6yHdGwkjQ+1XlCxEpOE6KJo=
 		</data>
 		<key>Headers/SDL_sensor.h</key>
 		<data>
-		uZnwBvZgptuHWThXDinwcyu0eSg=
+		RwfqWMNjZi8O6c/e7f+l6jrWWtU=
 		</data>
 		<key>Headers/SDL_stdinc.h</key>
 		<data>
-		LEtXKSTQBPjsLcfP20m8vN15dNk=
+		p5U44ukHJeOXMWHOrkm307yjChQ=
 		</data>
 		<key>Headers/SDL_storage.h</key>
 		<data>
-		cWVPFgC4CInn6oRSOSxpdc47YgA=
+		KXFZhty0OaDdpkyS4U2oixZAfss=
 		</data>
 		<key>Headers/SDL_surface.h</key>
 		<data>
-		QA/HdA3Ql2ptCkvW0Uc/WuzGA4s=
+		AISVaeDCftEr8gDdHW1m7ve+w5k=
 		</data>
 		<key>Headers/SDL_system.h</key>
 		<data>
-		Ggod7MHCPLKLSG0azOiie9HLcC8=
+		qqeS48QOHWmApVD4vlK6r0esuqM=
 		</data>
 		<key>Headers/SDL_thread.h</key>
 		<data>
-		dyYQVhhOw6BQZ6LtJ1GHwEVsLEA=
+		zzmAf2qJ9VWWB9mcS42yX6E+B0k=
 		</data>
 		<key>Headers/SDL_time.h</key>
 		<data>
-		5aRkeLDygZSrtS6lCY+9lniGxWI=
+		8B2GEH3aRj2suI7hviE/di1h4Cw=
 		</data>
 		<key>Headers/SDL_timer.h</key>
 		<data>
-		+FZu3/jiKc+uUF1zyIKUFNhiCO8=
+		Dw3rK6vs8TgCHBqN7xNPdWp1ea4=
 		</data>
 		<key>Headers/SDL_touch.h</key>
 		<data>
-		GPulTw1muJWQWdrldgTWoX4hZdA=
+		D8Tmyow63hNMy9jEvRnaAaO1FrQ=
 		</data>
 		<key>Headers/SDL_tray.h</key>
 		<data>
-		Bbv/vOZUJHVDKtkxSMp9EDOSv/w=
+		vALAlZwywLFvWYtZOh8/39bZGtU=
 		</data>
 		<key>Headers/SDL_version.h</key>
 		<data>
-		ohQAYnXRAAlm0NTDczd+Js/B+MI=
+		kVdgSafPFSJe8BpriVdZkRe/57s=
 		</data>
 		<key>Headers/SDL_video.h</key>
 		<data>
-		XTSABMkNeitQj1p5N1hdrUNY9Sc=
+		irhtLqDbGK/7KCNTI2B3h3FCMps=
 		</data>
 		<key>Headers/SDL_vulkan.h</key>
 		<data>
-		dgzQhU9+7NGInEGXW2rsDQgROn4=
+		MCL+LabbSXzNtmH4coS9Ea+8s9M=
+		</data>
+		<key>INSTALL.md</key>
+		<data>
+		fyUlqOEcE7zuLv8JGb0kUDRY4lc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		z6EqR7sUSoZ7yIxDgCm7wjuQGKQ=
+		Or9SZdeARftJGdkxWs9wShs7OvI=
 		</data>
-		<key>License.txt</key>
+		<key>LICENSE.txt</key>
 		<data>
-		A8VTYHTg+gsOssUp337xdGbdHW0=
+		MV/H0zYdw5DZw6QWBIZwa65FY04=
 		</data>
-		<key>ReadMe.txt</key>
+		<key>README.md</key>
 		<data>
-		fmvVN4l2bp/qrM2l1v1dfNxJRyo=
+		ED8RfQwxZj7wFttxnetM9Q6jXX4=
 		</data>
 		<key>default.metallib</key>
 		<data>
-		JiSzo29/KlkBvuzFUbvwyYzvDWI=
+		gCiO00h6NSqBuOjJb5sEPOl/U9E=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>CMake/SDL3Config.cmake</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E+bsKFeYRozn4nSWM4OxBPxu3Wo=
-			</data>
 			<key>hash2</key>
 			<data>
-			VxylhJ7S86lzsQJvXNKSHDGFR01PL4b7kLkIhMAayCI=
+			0X7VyiYqUwqsTjqO580GDglfMgEgRhK7uFFUgPccqrk=
 			</data>
 		</dict>
 		<key>CMake/SDL3ConfigVersion.cmake</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gQ+LV+T54JMbmVqczZwWryOwVns=
-			</data>
 			<key>hash2</key>
 			<data>
 			o4od03lMXeFmSf7XQVrg+cMoEnzDAA0bJIE6oslEQe0=
@@ -351,483 +347,307 @@
 		</dict>
 		<key>Headers/SDL.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HMPyGN41V4goPYYxTxzSbQbrdhw=
-			</data>
 			<key>hash2</key>
 			<data>
-			Vvm42ZckAsSZzZNEOV2uD+xuHLmZpPuSRjGIeO2mTMk=
+			Cvdi4gF6iiTrPFFXBN8WVYzKuQogVno9ER2HjYHLD78=
 			</data>
 		</dict>
 		<key>Headers/SDL_assert.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iZTfaUArpbcC/dsS+RpujtQB/YY=
-			</data>
 			<key>hash2</key>
 			<data>
-			fTutXxUcWqGxCv8OnSQXgQTSkXFYaOakk+4PDYtNPNE=
+			GUKvmslH9JBDeZwVHFV+dJ7uRugCENjA2fi0NvkXP6o=
 			</data>
 		</dict>
 		<key>Headers/SDL_asyncio.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vDwO8HUutOrm5vWzIO+JuYIvp80=
-			</data>
 			<key>hash2</key>
 			<data>
-			+lYtKbXInotWsrz30wMrD0fLJXVw6ENowh92BQX9qGA=
+			6eQHTxs1vaIfPh2XJZ8Dxl4txtqcXyGNKYkEdckwbaY=
 			</data>
 		</dict>
 		<key>Headers/SDL_atomic.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0P+tYv8TND39pV3VUbKe8pIakNo=
-			</data>
 			<key>hash2</key>
 			<data>
-			Omq8UC+P3lsHLZRvoOpYiQoLIFqTwiqWu2hsbnoG2is=
+			PgrpKCw7TgKe8KHwM5rZiv5NmW9QXjmnbtbdlhWZpjk=
 			</data>
 		</dict>
 		<key>Headers/SDL_audio.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BJyuhZ9xipQ4KOxvS1BumgaEjAw=
-			</data>
 			<key>hash2</key>
 			<data>
-			J902Ycqc3F7yRXkBevXwgPSiMJ1nE/vfEs6T8X6u21I=
+			VvBp9u2lRJVv9qyun1cSYcFrEcFfxL8Sug+lFgPr6zU=
 			</data>
 		</dict>
 		<key>Headers/SDL_begin_code.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GlWx+D9Hs04Iw4kz/9k1lIQBVaA=
-			</data>
 			<key>hash2</key>
 			<data>
-			UeY1hHHT0g2s7vxsxsjFdp1D7qFkTBe3DXs3uqmvStU=
+			fxk2E7HjevknSqJuM6gdTVdk729oKqu6dGiIKlngKOI=
 			</data>
 		</dict>
 		<key>Headers/SDL_bits.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			g4UwvZm7KGzzMbhoi4K9Xo2KjAA=
-			</data>
 			<key>hash2</key>
 			<data>
-			YZMeZY2brP9SV/dCrBjILVrC/eDBJXF5UcyjHuzkGiY=
+			H88Gt0fGZ+U7ts+dAX1avFoprYg8Be7fz7AhxXG2FZI=
 			</data>
 		</dict>
 		<key>Headers/SDL_blendmode.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N76RDsvZYsOeYw3wyAM3Ae24dTU=
-			</data>
 			<key>hash2</key>
 			<data>
-			la3+arc6O0EERvzIeDp88xsin7haa8JAq0ybuJUuhf0=
+			hAasxDnDlaxJ6necLTgqEtqXgyUxOY9o6DttaAzAP8U=
 			</data>
 		</dict>
 		<key>Headers/SDL_camera.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TBHnnS4XbI7+To7pnqG+aFXnrUA=
-			</data>
 			<key>hash2</key>
 			<data>
-			bOT8jknfFenIF1r9/FunAviAqCh8s6Hdc/F4SlcjJE4=
+			QVRcv5xfFyaG/Co9MnzrUy3C0NEo16s3zIbl6UwkUuw=
 			</data>
 		</dict>
 		<key>Headers/SDL_clipboard.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pk0UmFCsIprSdqu0wjOfJX1J95Y=
-			</data>
 			<key>hash2</key>
 			<data>
-			SzB9e/jdhqwqHt6MrEvyG+OrrEns0qAfmy9eR6WdPQ0=
+			nm+rMDYWWqbnVnJ9sg8fShfLgFD1nALxB8KsBdNTuRU=
 			</data>
 		</dict>
 		<key>Headers/SDL_close_code.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+5e0RYkSMDWs+B5irBHuav7EGM8=
-			</data>
 			<key>hash2</key>
 			<data>
-			Pywg/BcPdddnBZIKIdOeWTrlBArUBxikbwJU4USeomw=
+			zjynPn/VKTMQ/RVWksWLXoLlFvGoJn+E0K9XLIOY4+k=
 			</data>
 		</dict>
 		<key>Headers/SDL_copying.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gJU9ZWFTfu1EWAYO8Eou18UaQzU=
-			</data>
 			<key>hash2</key>
 			<data>
-			vqH3+9MIb2T5AP0+Wy4Vl4JO7kIr5B/FlRKGbOVButE=
+			ZENtUHjWdC8RyLCs+LyHI30V2jZxbrJVKYaotFxBmWc=
 			</data>
 		</dict>
 		<key>Headers/SDL_cpuinfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0hG99dBQ0QrIeFpGoxpXc2V4HSg=
-			</data>
 			<key>hash2</key>
 			<data>
-			aZ83hxs7hDRzM3tftVU1LFkiH0sqZ4gYUiXpwn4d1w4=
+			wDNjucbJP3UbWyU9Y2IIuqnWZYxpJoArNRaXNrlvGu8=
 			</data>
 		</dict>
 		<key>Headers/SDL_dialog.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JNb/9FfibjRTWjz9gMmbyBxDobE=
-			</data>
 			<key>hash2</key>
 			<data>
-			77pMtd2BB5saiZ79M3PNaL4OGSjWh6IdzzzowziFLtw=
+			uSXny36TRgIvEu9/b3g7AVOwfCSVETRcNiyye6ptSMU=
 			</data>
 		</dict>
 		<key>Headers/SDL_egl.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DFPtq0RjCP4+3UsNLTKNq6adAfI=
-			</data>
 			<key>hash2</key>
 			<data>
-			3bqSsp9JRnF9dLy8lfkfkzv3v6QU0IR7rx35nmXpMGU=
+			ZI1DHIxRuv6skDbbF8PuX96mtre4/huG2LdUFjDXzds=
 			</data>
 		</dict>
 		<key>Headers/SDL_endian.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wBKjeNjU99yObcHh3yFFlZUbXzA=
-			</data>
 			<key>hash2</key>
 			<data>
-			YxSf1aBovq/uZY2q1eRZFcw3kIe2IJJZfwIrlHVmXgc=
+			37jA4lsA1YiTsAWGk5vvZj/H/tf4+yDoCf7vcJa9Ew0=
 			</data>
 		</dict>
 		<key>Headers/SDL_error.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			coQgqbJrF9nkwT9LEeudbpVderE=
-			</data>
 			<key>hash2</key>
 			<data>
-			osDcvAZMGQs66PiXbmmp1G1XKSgm3t8cE94PpOYBil0=
+			fSlLo+mUuJpCvGNG5+Wb/4L7zi0FD3zbGJ2PRfMXlfI=
 			</data>
 		</dict>
 		<key>Headers/SDL_events.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ltR7vp0z2X2fs2FBD8z3McE+cWE=
-			</data>
 			<key>hash2</key>
 			<data>
-			34SYwOdMcHU38qe1TRm/TRf97gfX9OBvIm20R7ZWFGo=
+			6B7T1/y4oKgsbog2B2QL6UZ4vv4UnNRnk1Lhi807z3Q=
 			</data>
 		</dict>
 		<key>Headers/SDL_filesystem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lI/CLf41KuuQUIkr8Qf7/XtxG3U=
-			</data>
 			<key>hash2</key>
 			<data>
-			V+TXfWSRjbngEw0SE0SsnITshBY5DH/dThDxiIFNUGM=
+			bR6AD/KyDeLQQW98aBfdbxGzufw7+4C+WDTjBpRmy9I=
 			</data>
 		</dict>
 		<key>Headers/SDL_gamepad.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IAs4gv4ecTe4AFsLSxIh9hmUxmQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			fc5zCSFHQYC259LDpwY/HBu0NTmYyYwdeGFipwxSzuQ=
+			TGeZjBGUlOjcgkIzBwKK2YpN508+deGN8RMmwTx3hRI=
 			</data>
 		</dict>
 		<key>Headers/SDL_gpu.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			govhCpdy0R7i4tUcwOapd6FhegM=
-			</data>
 			<key>hash2</key>
 			<data>
-			udXeB1LM/azZURXHsoICqnKoCxlwReK57tBL/DwJDvw=
+			2tUSvuo5Ev+GaOaDzcaLUYmJT5z1/Qxi4rfF/ejz4IE=
 			</data>
 		</dict>
 		<key>Headers/SDL_guid.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4C2G0+7O3QHAgBUX5nVrMc8ZhMA=
-			</data>
 			<key>hash2</key>
 			<data>
-			xydXF00DDh4TwjbavCNu7jv1h0KLEfd+2B51ayx8oqU=
+			lYJzCv4bmAURGxZ8Yv7DmXsFLoA0VShvmZPDA8M6z7U=
 			</data>
 		</dict>
 		<key>Headers/SDL_haptic.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5a1B+DmODJe5SGGuj/iBSzdiXEI=
-			</data>
 			<key>hash2</key>
 			<data>
-			gLHCA05TkGSUnIFVCWggloBP4twsC2NEpeQLbzzgh+Q=
+			qLujijGSmObisRAEHA+3sUS2/sicBu5CiFRULbc9tw8=
 			</data>
 		</dict>
 		<key>Headers/SDL_hidapi.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3HzAgB6kSBUsZlNgu6QTtcdT8ic=
-			</data>
 			<key>hash2</key>
 			<data>
-			+HjBZdh8b6KKbk6ZzG0DkergeYbtn7CjZCb2O30Sc6Y=
+			BS/UNHgeoUgUP0ZE7Wr1ElicSkMtMcXZRy0vOU1OsWs=
 			</data>
 		</dict>
 		<key>Headers/SDL_hints.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tDfSifYcUhI3ENJiuHN3serVDjs=
-			</data>
 			<key>hash2</key>
 			<data>
-			11Fp1nv5qqAlz4ltUWwtp50n9djSl1WzAWaWtrLaEUA=
+			zZW0/QZMSL38EomWyrpmd/wrv5wgUFUbQL1T+Liy/fE=
 			</data>
 		</dict>
 		<key>Headers/SDL_init.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ybmyx+VHlrLkvy24J6aKsFYjaiA=
-			</data>
 			<key>hash2</key>
 			<data>
-			3TqcZOOw04k9I2hVAybcSCwLaJsvYjVOO8AxZJ9hZKQ=
+			X1qr3eJdWv9RNxQK9U/hAHM/7fyvLI8fbHE4pQqdSIo=
 			</data>
 		</dict>
 		<key>Headers/SDL_intrin.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ISP2HtzJeKi/KpvP0n7bvY6CzT4=
-			</data>
 			<key>hash2</key>
 			<data>
-			KkBpXesMRtp+1gwB3g6iH+vkas2glCKqVNfnd+dcdxw=
+			YlLnI56pNm7vQnEwH6oDfki+eqMkQ0FPStKovXGGxmY=
 			</data>
 		</dict>
 		<key>Headers/SDL_iostream.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AWH+H0rJPOJpxUBJEmWeJFIL++A=
-			</data>
 			<key>hash2</key>
 			<data>
-			KZgwI/COPi/JDQ/0nCbX+Z+jjzlMn+OJMIiwbKanfoU=
+			2wZxMiUAboSqkmYgGObh9demGS4uXGetGIOddzOoBxU=
 			</data>
 		</dict>
 		<key>Headers/SDL_joystick.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KAvUgWY6F8zL8TxW0Z8vLUkvOTk=
-			</data>
 			<key>hash2</key>
 			<data>
-			Gp1yDqPSWbkyq8yGwPMlS18nnVygQtkJr1zY1lCeXiU=
+			r0aPy8paE7O55PiB3ku4l++dZITgfb2mBLYkZXPzg7U=
 			</data>
 		</dict>
 		<key>Headers/SDL_keyboard.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v/QDKYKY1bsyK1PYH0x4aytmSr0=
-			</data>
 			<key>hash2</key>
 			<data>
-			Max3z/ZZmXV/RpeaBKxVGW3pTh2OLjcsFt/6bWPe7aA=
+			QMAEiiN+f9SUaPFtczb4DFrl44iMPNHXveQxWfYGgq0=
 			</data>
 		</dict>
 		<key>Headers/SDL_keycode.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pfsVkdDuEXzsX4S4NCng/PMFXdI=
-			</data>
 			<key>hash2</key>
 			<data>
-			v+0I1AC4M7mCPfM7jwG6isLLcBJ7Z23otoAjmNhHDFs=
+			CGHx7BS7/S7d8qMTXN1PVcyq+oGig+V0AjbvTRDo5wA=
 			</data>
 		</dict>
 		<key>Headers/SDL_loadso.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			giyDNhDXnVmJY82ijdn1X3RM77s=
-			</data>
 			<key>hash2</key>
 			<data>
-			ohRFn+RrnXh1411i7xISb8ysGeJu3UMHgj0OnQYtJO0=
+			LucDpNvlT+qEmAE0wm0hy4fDDfS3r9+ho8xspu9k4J4=
 			</data>
 		</dict>
 		<key>Headers/SDL_locale.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RvbjfxCAnke6onTDwwPH4AuCozQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			BAq+wlLrX2c3YHFR9c3cBU5xsgpi//ztq/79vXSImfQ=
+			s0UA/AyUaFIR/UxuFbAnLzul37UAYEB8OQHGyemDmFs=
 			</data>
 		</dict>
 		<key>Headers/SDL_log.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yi0r0KuPz+Y3E40VmnOHggkGNI4=
-			</data>
 			<key>hash2</key>
 			<data>
-			SRky6tjY1MlJRiho02jEV16Chq5Cw3JSirRu9MBNC5c=
+			0ypVf/5dM6mKA3D2BbkFRVoQaIuqUEDMEu1d5a59kak=
 			</data>
 		</dict>
 		<key>Headers/SDL_main.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TbV/KwYJdwvmmyXFmHIHkd9/x6o=
-			</data>
 			<key>hash2</key>
 			<data>
-			eH2Ad8RBPefRlguk1oFrKxdNcSUer1eVoAXiNFZrChE=
+			dExUeHgHxUtHVpvJKFF6GLiPaRKS2UZ84V8JwgNYn/c=
 			</data>
 		</dict>
 		<key>Headers/SDL_main_impl.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E6I+OVhL/eM/b04avmDbrkYTuaA=
-			</data>
 			<key>hash2</key>
 			<data>
-			XBSvAy0pPR4tzpIR3APteIlA7IMz3Y4a+Rf+0gefFFw=
+			nLJhKmOzMf/3oNn8MHvp28Ph8hx7CuZOgYGvyxa0Fg8=
 			</data>
 		</dict>
 		<key>Headers/SDL_messagebox.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			T3s4R8JHwzY5z5Whk2bMxrI0EKk=
-			</data>
 			<key>hash2</key>
 			<data>
-			agf63rtwmvx0bA52lQ+HR29lVPBIuIoE5eDUKaHTt0o=
+			f9JqShergM7ApYxHQJp0rMwnRA2TW3m1COEQmJgrwMg=
 			</data>
 		</dict>
 		<key>Headers/SDL_metal.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Jl7VPYJxV5C6PJajgF4y3aMZDCs=
-			</data>
 			<key>hash2</key>
 			<data>
-			9szbTVXnTKwJ8z0EUVwcPlQIk6fyDw5YoDGAB4uWivw=
+			7Fs5+iU7qLHNh8XkDvbeNtwypYjyDVB4sBEoASSwgkA=
 			</data>
 		</dict>
 		<key>Headers/SDL_misc.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			seB/1sHipR5/HdMrR/v5YkN+AEU=
-			</data>
 			<key>hash2</key>
 			<data>
-			lVxpKCE44joM2/BGRx2hP6C9OMU1c/0BYPisaIi4e/M=
+			zlOAZjhmbs3kUq4/i86aZTyFOf54uMb9lYW9SIjsk+A=
 			</data>
 		</dict>
 		<key>Headers/SDL_mouse.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/RyakMS0G7UqrZeBaUzeYoWHsqQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			KQzklrtKK/49DvHJ+q1jn++ijLTY+gAS+uLpl2d6+lo=
+			YjZ7PHxJHE7eO4DD5IZ1dJmRmr1AK94SCg+xivpEFqw=
 			</data>
 		</dict>
 		<key>Headers/SDL_mutex.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ooHDeicc1ZVN1OnJ8sNwyUZLgp8=
-			</data>
 			<key>hash2</key>
 			<data>
-			PyXbPvHhk2NbqYdiFSB/1LWkPxvQqUtVoIrdk2jrV4A=
+			K0mA/DdrF5+fAYkt6vZ5qNonce+zAecF0f+2ay6eciU=
 			</data>
 		</dict>
 		<key>Headers/SDL_oldnames.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tPVTZHyXTp55p7uYiBEhCM4sh0k=
-			</data>
 			<key>hash2</key>
 			<data>
-			G2RJEY2u0zIfHf0iXKDzQdXh//ppdis7RZqiOz8p5qM=
+			pGGsTEnGS1qN38nfrQooK1X/CM4p6EhYwHuSrUCuZCE=
 			</data>
 		</dict>
 		<key>Headers/SDL_opengl.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8jjbdjQBpwME3TwtsLb4R7jdJqE=
-			</data>
 			<key>hash2</key>
 			<data>
-			Vrx2Jkj4EGouPu3DAvrK8HSwn5pXV6x4qUUN7O2zMMA=
+			LqWxBvkb9UooP3YdPv2hhaUV7Z1hcCrHNXJ0kg5pIC4=
 			</data>
 		</dict>
 		<key>Headers/SDL_opengl_glext.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TvPj1ofjtpSE6KgrLAh6PnGyZNQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			2IXkrwf1MIPKwa6QphzLOTF5R+5z5SFlBvsl9q5QMyQ=
@@ -835,32 +655,20 @@
 		</dict>
 		<key>Headers/SDL_opengles.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gG8fFwXRxWfFzL5XD2UffDRXZ3Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			aoo42jon38SwoJd6YxYz+gpHtBEECX685KyFqnRG/yY=
+			q8cYr3RT0WnR58ff37XZOaJQUZvuAt99QuDWplt+DIU=
 			</data>
 		</dict>
 		<key>Headers/SDL_opengles2.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AxfYXQsD0wpyQFFalhC2+H+bbJw=
-			</data>
 			<key>hash2</key>
 			<data>
-			mfh8cJuZsq8zI8LZw40h4NqpQ16HNuHhbbVHw1q6ZqU=
+			0ENhHFweBuRmpiO4jR7kmHRilduMwfFfGHLBl0IEUhc=
 			</data>
 		</dict>
 		<key>Headers/SDL_opengles2_gl2.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GbD4M9ZIR9sxgLX4G8T/ojLVQJk=
-			</data>
 			<key>hash2</key>
 			<data>
 			1uxEsdc/OvzjogrGl223+z2sZWxRkPC1Y+TOkNeaFao=
@@ -868,10 +676,6 @@
 		</dict>
 		<key>Headers/SDL_opengles2_gl2ext.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			frTvd+EfShO/uonAvnnsnPkqc80=
-			</data>
 			<key>hash2</key>
 			<data>
 			T8WwA03N6cElki4+cNAUiaazNQdoVu5mApThpjBaNxk=
@@ -879,10 +683,6 @@
 		</dict>
 		<key>Headers/SDL_opengles2_gl2platform.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JO1DB28zz7TCz/P5YCSvV1PaqWg=
-			</data>
 			<key>hash2</key>
 			<data>
 			R3m+mZrNGQRFgjjwnIaYO3lgrEDmEuBdstuX22FfHg8=
@@ -890,10 +690,6 @@
 		</dict>
 		<key>Headers/SDL_opengles2_khrplatform.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mBjqEs+5bGC9u1ED2M93VNzONPQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			ex4Bqqetj2/DS1x733nr9RibsJ4sTS55/F01BiPRHoM=
@@ -901,299 +697,198 @@
 		</dict>
 		<key>Headers/SDL_pen.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P0vNyTzRerR/nJ1u5j1XCs48PcQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			O3dFLlA7dd6usXD+OMtMzhoaeFV7fN2kXNJtwNdH19k=
+			kMVe4rIilC0D2bCBXaQuTbyJcfYuFB6NF2zY0GMHZSc=
 			</data>
 		</dict>
 		<key>Headers/SDL_pixels.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6pIrZAZC7HusRvkkHkNpCjf0XO4=
-			</data>
 			<key>hash2</key>
 			<data>
-			y2e7G5SptEvavKpxmG53iQN26R83GOSzJLDcPtT9k1w=
+			LNF1mr8/q/ySYmhjN3BTRHUt8uoP0y2eaqGUSd01l1Q=
 			</data>
 		</dict>
 		<key>Headers/SDL_platform.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nu3QXt/fbiMtDpmbdk683Bi1yTM=
-			</data>
 			<key>hash2</key>
 			<data>
-			SNFkvK4CQH8n1KlMWxVd3C/Bu1FFkArNnLJiubfvCK8=
+			rJzzCb3cDnVV++HUJYN7rROraIegCilBvo1PzfSzERo=
 			</data>
 		</dict>
 		<key>Headers/SDL_platform_defines.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vhKMVf7mBVG/AqzlTG0zIk14Al4=
-			</data>
 			<key>hash2</key>
 			<data>
-			yjrCZtc1hvCtapP9Zbir1TsRJ8HZkuKi/B7LGw++wR0=
+			1gY0D+xDbD99hyMrgCSftn/D98qE6Yzn384cCqguVQU=
 			</data>
 		</dict>
 		<key>Headers/SDL_power.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nXzpwyYa01d4qbzFwOlye3zg6Hc=
-			</data>
 			<key>hash2</key>
 			<data>
-			I6wVYvXQorjIfvlZZnS4AFmQPZMwj/zaaq6kY0R8amk=
+			d9umbBzotQlz1MRiww4CcbV9plDfGYfg3LaoLI3Scro=
 			</data>
 		</dict>
 		<key>Headers/SDL_process.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y5JmSaP++vCtreTxTX0ymdDYqv0=
-			</data>
 			<key>hash2</key>
 			<data>
-			CwumwXD32DZ5FAxunQ9zmLq+SmDiadlORldVHaOR1bo=
+			Z6C8A6FVpoIFvmXDeVS57eD4WN5vSQcIcaKjUB9vmAQ=
 			</data>
 		</dict>
 		<key>Headers/SDL_properties.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RPqL9CeaXDeL/iRQMwGuDajHhk0=
-			</data>
 			<key>hash2</key>
 			<data>
-			W+1fvWZg17Rb0hYTAxZhvSfM5R4gt7X2ixAGc1EYVrU=
+			FMSMnEfaIzvmuD/o5CBL6rhd6pXGuhrkjmSQ1F6mTt8=
 			</data>
 		</dict>
 		<key>Headers/SDL_rect.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			b9/2IcyO0TfAChFaRUL4/bJXKeM=
-			</data>
 			<key>hash2</key>
 			<data>
-			eWo00Enn1VBIEWxrpdEHGo2UwTN2lc4PMverdkT5OWg=
+			dlouxLVTArPG98yxRQqcSEB/uMsozkfdcpTtRIU4Ojs=
 			</data>
 		</dict>
 		<key>Headers/SDL_render.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wtoM8UmcnR3TGIS3QNGakv1coQI=
-			</data>
 			<key>hash2</key>
 			<data>
-			aZe5fSjSTTq0VNCw4dLMgwyjVrWso2dtj/Yqqf6GIYI=
+			TTzckAGMIupcnJuLd1+U5SiZgRfytR/bTs1yRoWV56E=
 			</data>
 		</dict>
 		<key>Headers/SDL_revision.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nvUzgCJ/PMbkYrUJqMmDq9JNNxk=
-			</data>
 			<key>hash2</key>
 			<data>
-			HTRe7SZX8Wd5LszFvlfHMV0VXLJZAMifA/wWlQjOaxg=
+			pLpm0zobxfuxCY98B1HUanPFVy7LEb/2g0bmrg3gAiY=
 			</data>
 		</dict>
 		<key>Headers/SDL_scancode.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mpd8o1bktQb4E4fJ9uOmrT3IkSM=
-			</data>
 			<key>hash2</key>
 			<data>
-			JzVl3qx1Ro7Wtvom6LSDBengtT+j5jd3VGbtPoms12A=
+			Mz+cUcJxVYNH1PgH1HQ1lms9b/w6rFkgovMaKX/MFfs=
 			</data>
 		</dict>
 		<key>Headers/SDL_sensor.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uZnwBvZgptuHWThXDinwcyu0eSg=
-			</data>
 			<key>hash2</key>
 			<data>
-			EZFoJsbcibQvWuZ1FJ37d6dNXF44LnVBMm+eoz3OVe8=
+			hkGEpyGOUWQhmMkuMasy86uqDchGDP1O8OLMic0d45M=
 			</data>
 		</dict>
 		<key>Headers/SDL_stdinc.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LEtXKSTQBPjsLcfP20m8vN15dNk=
-			</data>
 			<key>hash2</key>
 			<data>
-			hVcx3600NVGF4aW3s+4CW2NeOT/UNc6vZYYeFl0v9uo=
+			1lQYyQZpVGCCIEVg1wB60YfE/4v9zVXcNgevbNJRLPs=
 			</data>
 		</dict>
 		<key>Headers/SDL_storage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cWVPFgC4CInn6oRSOSxpdc47YgA=
-			</data>
 			<key>hash2</key>
 			<data>
-			gNKCPNDf0eZprPsI9WhMqKWPocA6ipiU/YjtuFLRtqw=
+			oxSWVHUbbqMKvx1QBuV39bmyH+VFJj/wE9axnBIA0t4=
 			</data>
 		</dict>
 		<key>Headers/SDL_surface.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QA/HdA3Ql2ptCkvW0Uc/WuzGA4s=
-			</data>
 			<key>hash2</key>
 			<data>
-			fQV55+N6xPT9HDu2hwoqayN3cpL2QIc8GoTKAurYgPk=
+			Js/qrm2ltYV2bTT/AUSXIgbmPDb21TuhNGd+j91G6Bs=
 			</data>
 		</dict>
 		<key>Headers/SDL_system.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ggod7MHCPLKLSG0azOiie9HLcC8=
-			</data>
 			<key>hash2</key>
 			<data>
-			Lhy8Diulf0gsQRcLt69jtp+LUf/WC+Zhnp+f3L0Oru0=
+			j+vc/6qa/tWwnNVuxFtl/+ZasjDpFiKIj/SWs9WvmoA=
 			</data>
 		</dict>
 		<key>Headers/SDL_thread.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dyYQVhhOw6BQZ6LtJ1GHwEVsLEA=
-			</data>
 			<key>hash2</key>
 			<data>
-			2c05agd22oUvFRh77zOItHYlwtchs7ehvECsgDUkol8=
+			zNaMperhXe4mP0ZQ9LMd/CewmlKkw4xTJpKu7FlubnA=
 			</data>
 		</dict>
 		<key>Headers/SDL_time.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5aRkeLDygZSrtS6lCY+9lniGxWI=
-			</data>
 			<key>hash2</key>
 			<data>
-			A6r8TIa/2xEONlkocJyubDDxFp/gnTUs5GipmuGsv0Y=
+			2uMjroK2pJQqTpQYR37U8oTurEuBWWavK4ypNIQrjiI=
 			</data>
 		</dict>
 		<key>Headers/SDL_timer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+FZu3/jiKc+uUF1zyIKUFNhiCO8=
-			</data>
 			<key>hash2</key>
 			<data>
-			prw1uFIyr1Zr/Cp4rdjIGXFCOzS1X7NM0WxELRRDMX0=
+			5hkyTURkMquzzC9SGKwImyNFwA5FTsUrX8cj8Tfkvzw=
 			</data>
 		</dict>
 		<key>Headers/SDL_touch.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GPulTw1muJWQWdrldgTWoX4hZdA=
-			</data>
 			<key>hash2</key>
 			<data>
-			k+lr2qHr2RZ8EOpOkl0kIkSMKT2t1MH8BgYstGJW0oY=
+			IkjbfrMdhQ3G93hAl6yyUMG6/mUIs+kVUEeP//1GUmE=
 			</data>
 		</dict>
 		<key>Headers/SDL_tray.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Bbv/vOZUJHVDKtkxSMp9EDOSv/w=
-			</data>
 			<key>hash2</key>
 			<data>
-			HwIciPKhP6/s/Kg4I2cEw3CLdt2CucRYXfIqOv1MC/c=
+			KA3SCxpjMIcM5EeEHC6F3o9/5CFr8kAVvsd8Ra+pUms=
 			</data>
 		</dict>
 		<key>Headers/SDL_version.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ohQAYnXRAAlm0NTDczd+Js/B+MI=
-			</data>
 			<key>hash2</key>
 			<data>
-			qYCNPedhKYNwvuN+I1QftM2bc5GNgHy6GptWoer9btk=
+			227opDjmxbL8YKwXKqGjwoVvSgAOjqD/x5Gz0fDdC7A=
 			</data>
 		</dict>
 		<key>Headers/SDL_video.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XTSABMkNeitQj1p5N1hdrUNY9Sc=
-			</data>
 			<key>hash2</key>
 			<data>
-			7Sdk3Prt3o/TVOTDI42ebz8WMFKdePNF2pViS3J0KYQ=
+			Yb5Cg96tQZZ0ErDNn2e33TSvsXYbcUYgShi8M3jkjHk=
 			</data>
 		</dict>
 		<key>Headers/SDL_vulkan.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dgzQhU9+7NGInEGXW2rsDQgROn4=
-			</data>
 			<key>hash2</key>
 			<data>
-			tUoe+4BCYKlmy+90u9eDHF5H32K+kHPnm3BbzWov3U4=
+			yHTw0Wf4WcYGEJtGQKPo0qMY51hlnmVhLCebseJiLwg=
 			</data>
 		</dict>
-		<key>License.txt</key>
+		<key>INSTALL.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			A8VTYHTg+gsOssUp337xdGbdHW0=
-			</data>
 			<key>hash2</key>
 			<data>
-			UN4cvaEc5FbrLcR2jBIsS5miYCucbhF1iAKC2EMtJhM=
+			cfN7quEEdthPBp+Ef9Fnvue8PyOFBgmdeNoftdFDzR8=
 			</data>
 		</dict>
-		<key>ReadMe.txt</key>
+		<key>LICENSE.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fmvVN4l2bp/qrM2l1v1dfNxJRyo=
-			</data>
 			<key>hash2</key>
 			<data>
-			gUne5zwAtztNlmXGwQhk5IppZm4RJ3GYBlIcGoKHQXw=
+			l/NbMCs2FoDsHokeldLVIJe7lav/NhQ0kW2Z3BMF8Sc=
+			</data>
+		</dict>
+		<key>README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QboZO+koFZBptSlJqxoTwskW+z99BRNKDR6cxw1Mfrg=
 			</data>
 		</dict>
 		<key>default.metallib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JiSzo29/KlkBvuzFUbvwyYzvDWI=
-			</data>
 			<key>hash2</key>
 			<data>
-			mPvPrsK2pFgHqPGr07gIkls2Mv+Yqw4MH9Sp7T6witg=
+			wt33FoGqgnyr5xOqBd0TLsvuDt0oybD4lz1MyxzNdC8=
 			</data>
 		</dict>
 	</dict>
