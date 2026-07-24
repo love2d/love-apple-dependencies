@@ -7,7 +7,7 @@ git checkout v2.1
 
 INSTALL_NAME="@rpath/Lua.framework/Versions/A/Lua"
 
-export MACOSX_DEPLOYMENT_TARGET=10.7
+export MACOSX_DEPLOYMENT_TARGET=10.15
 
 # build x64
 make clean

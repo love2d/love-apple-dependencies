@@ -7,7 +7,7 @@ git checkout v2.1
 
 mkdir tmpbuild
 
-export MACOSX_DEPLOYMENT_TARGET=10.9
+export MACOSX_DEPLOYMENT_TARGET=10.15
 
 # iOS device binaries
 # LuaJIT does not support building for armv7 on modern macOS versions.
@@ -15,7 +15,7 @@ export MACOSX_DEPLOYMENT_TARGET=10.9
 ISDKP=$(xcrun --sdk iphoneos --show-sdk-path)
 ICC=$(xcrun --sdk iphoneos --find clang)
 
-ISDKF="-arch arm64 -isysroot $ISDKP -mios-version-min=8.0"
+ISDKF="-arch arm64 -isysroot $ISDKP -mios-version-min=13.0"
 make clean TARGET_SYS=iOS
 make -j8 CC="clang" CROSS="$(dirname $ICC)/" TARGET_FLAGS="$ISDKF" TARGET_SYS=iOS
 cp src/libluajit.a tmpbuild/libluajit_arm64_device.a
@@ -26,12 +26,12 @@ cp src/libluajit.a tmpbuild/libluajit_arm64_device.a
 ISDKP=$(xcrun --sdk iphonesimulator --show-sdk-path)
 ICC=$(xcrun --sdk iphonesimulator --find clang)
 
-ISDKF="-arch x86_64 -isysroot $ISDKP -mios-simulator-version-min=8.0"
+ISDKF="-arch x86_64 -isysroot $ISDKP -mios-simulator-version-min=13.0"
 make clean TARGET_SYS=iOS
 make -j8 CC="clang" CROSS="$(dirname $ICC)/" TARGET_FLAGS="$ISDKF" TARGET_SYS=iOS
 cp src/libluajit.a tmpbuild/libluajit_x86_64_sim.a
 
-ISDKF="-arch arm64 -isysroot $ISDKP -mios-simulator-version-min=8.0"
+ISDKF="-arch arm64 -isysroot $ISDKP -mios-simulator-version-min=13.0"
 make clean TARGET_SYS=iOS
 make -j8 CC="clang" CROSS="$(dirname $ICC)/" TARGET_FLAGS="$ISDKF" TARGET_SYS=iOS
 cp src/libluajit.a tmpbuild/libluajit_arm64_sim.a
